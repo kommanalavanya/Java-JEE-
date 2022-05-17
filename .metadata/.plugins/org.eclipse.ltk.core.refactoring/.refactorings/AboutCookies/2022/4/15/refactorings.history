@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;calculate.html&apos; to &apos;JSP&apos;&#x0D;&#x0A;- Original project: &apos;AboutCookies&apos;&#x0D;&#x0A;- Destination element: &apos;JSP&apos;&#x0D;&#x0A;- Original element: &apos;calculate.html&apos;" description="Copy file" element1="src/main/webapp/calculate.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1648981382140" target="/JSP" units="0" version="1.0"/>
+</session>
